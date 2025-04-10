@@ -1,0 +1,1 @@
+import{d as o,c as t,b as a,e as s,o as n,_ as c}from"./index-CV45lKxV.js";const _={class:"ai-multimodal-container"},r=o({__name:"AIMultimodalView",setup(i){return(l,m)=>{const e=s("router-view");return n(),t("div",_,[a(e)])}}}),p=c(r,[["__scopeId","data-v-53293f5f"]]);export{p as default};
